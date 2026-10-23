@@ -1,0 +1,73 @@
+# Hyperscaler / Großkunden -> Zulieferer bzw. Vertragspartner aus der Watchlist
+#
+# Wirkung im Kalender:
+#   * Beim Kunden-Termin (z. B. MSFT) steht, welche Zulieferer betroffen sind.
+#   * Beim Zulieferer-Termin (z. B. VRT) stehen die Earnings-Termine seiner Kunden,
+#     damit du siehst, welche Kunden VORHER berichten.
+#
+# Schlüssel = Ticker des Kunden. Steht der Kunde nicht in der Watchlist, wird er
+# automatisch zusätzlich abgefragt (yahoo: Symbol angeben, falls nicht US).
+# Zulieferer = Ticker wie in der Watchlist (ohne Börse) oder komplett "BÖRSE:TICKER".
+#
+# ENTWURF von Claude auf Basis öffentlicher Berichte (Stand ca. Mitte 2026).
+# Beziehungen ändern sich – bitte prüfen und ergänzen.
+
+MSFT:
+  name: Microsoft
+  typ: Hyperscaler
+  zulieferer: [NVDA, AMD, MRVL, ANET, VRT, CRDO, ALAB, LITE, COHR, CRWV, NBIS, IREN, CEG]
+
+AMZN:
+  name: Amazon (AWS)
+  typ: Hyperscaler
+  zulieferer: [NVDA, AMD, MRVL, ALAB, CRDO, AAOI, ANET, VRT, IREN, CIFR, INTC, TSM]
+
+GOOGL:
+  name: Alphabet (Google Cloud)
+  typ: Hyperscaler
+  zulieferer: [AVGO, TSM, NVDA, ANET, CRDO, LITE, COHR, CIFR, WULF, VRT]
+
+META:
+  name: Meta
+  typ: Hyperscaler
+  zulieferer: [NVDA, AMD, AVGO, ANET, CRDO, ALAB, LITE, COHR, CRWV, NBIS, CEG, OKLO, VST]
+
+ORCL:
+  name: Oracle (OCI)
+  typ: Hyperscaler
+  zulieferer: [NVDA, AMD, VRT, BE, DELL, ANET]
+
+CRWV:
+  name: CoreWeave
+  typ: KI-Cloud
+  zulieferer: [NVDA, DELL, VRT, CORZ, APLD, GLXY]
+
+NVDA:
+  name: NVIDIA
+  typ: Großkunde Halbleiter
+  zulieferer: [TSM, HY9H, MU, AMKR, MPWR, NVTS, VRT, FN, COHR, LITE, CRDO, ALAB, DELL]
+
+AMD:
+  name: AMD
+  typ: Großkunde Halbleiter
+  zulieferer: [TSM, AMKR, ATS, MU, HY9H]
+
+AAPL:
+  name: Apple
+  typ: Großkunde Halbleiter
+  zulieferer: [TSM, AVGO, QCOM, TXN, AMKR, MU]
+
+TSLA:
+  name: Tesla
+  typ: Großkunde Halbleiter
+  zulieferer: [ON, NVDA, AMBA, SYNA]
+
+TSM:
+  name: TSMC
+  typ: Großkunde Ausrüstung
+  zulieferer: [ASML, AMAT, LRCX, KLAC, TER, CAMT, FORM]
+
+MU:
+  name: Micron
+  typ: Großkunde Ausrüstung
+  zulieferer: [AMAT, LRCX, KLAC, ASML, FORM]
