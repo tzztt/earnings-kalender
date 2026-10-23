@@ -1,0 +1,48 @@
+name: Earnings-Kalender aktualisieren
+
+on:
+  schedule:
+    - cron: "15 12 * * 1-5"
+    - cron: "45 22 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: earnings-kalender
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Pakete installieren
+        run: pip install -r requirements.txt
+
+      - name: Kalender erzeugen
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python -m ecal.build
+
+      - name: Im Gist veröffentlichen
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+        run: python -m ecal.publish
+
+      - name: Status speichern
+        run: |
+          git config user.name "earnings-bot"
+          git config user.email "earnings-bot@users.noreply.github.com"
+          git add data/state.json output/report.md
+          git diff --cached --quiet || git commit -m "Update $(date -u +%Y-%m-%d_%H%M)"
+          git push
