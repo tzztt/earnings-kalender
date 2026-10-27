@@ -1,0 +1,57 @@
+name: Earnings-Wächter
+
+on:
+  schedule:
+    # Stündlich (UTC, Mo-Fr). Der Lauf endet nach wenigen Sekunden, wenn in der nächsten Stunde
+    # nichts gemeldet wird. Sonst fragt er bis zu 55 Minuten lang alle 5 Minuten ab.
+    - cron: "2 5-23 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: earnings-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Steht etwas an?
+        id: gate
+        run: python3 -m ecal.watch --check
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.due == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Pakete installieren
+        if: steps.gate.outputs.due == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Wächter
+        if: steps.gate.outputs.due == 'true'
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}   # optional, macht Zahlen oft schneller verfügbar
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          APP_URL: ${{ secrets.APP_URL }}                   # optional: Tipp auf die Nachricht öffnet die App
+        run: python -m ecal.watch --slot-minutes 55
+
+      - name: Status speichern
+        if: always() && steps.gate.outputs.due == 'true'
+        run: |
+          git config user.name "earnings-bot"
+          git config user.email "earnings-bot@users.noreply.github.com"
+          git add data output/report.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Wächter $(date -u +%Y-%m-%d_%H%M)"
+          git pull --rebase -X theirs origin main
+          git push
