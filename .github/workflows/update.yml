@@ -2,12 +2,16 @@ name: Earnings-Kalender aktualisieren
 
 on:
   schedule:
-    - cron: "15 12 * * 1-5"
-    - cron: "45 22 * * 1-5"
-  workflow_dispatch: {}
+    # Zeiten in UTC, Mo-Fr. Ergebnisse erscheinen beim jeweils nächsten Lauf.
+    - cron: "15 6 * * 1-5"    # früh: europäische und asiatische Meldungen
+    - cron: "15 12 * * 1-5"   # Mittag
+    - cron: "45 14 * * 1-5"   # nach den vorbörslichen US-Zahlen
+    - cron: "45 22 * * 1-5"   # nach US-Börsenschluss und den nachbörslichen Zahlen
+    - cron: "15 2 * * 2-6"    # nachts: Nachzügler vom Vorabend
+  workflow_dispatch: {}        # manuell starten: Actions -> "Run workflow"
 
 permissions:
-  contents: write
+  contents: write              # zum Speichern von data/state.json
 
 concurrency:
   group: earnings-kalender
@@ -30,7 +34,7 @@ jobs:
 
       - name: Kalender erzeugen
         env:
-          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}   # optional
         run: python -m ecal.build
 
       - name: Im Gist veröffentlichen
@@ -43,6 +47,8 @@ jobs:
         run: |
           git config user.name "earnings-bot"
           git config user.email "earnings-bot@users.noreply.github.com"
-          git add data/state.json output/report.md
-          git diff --cached --quiet || git commit -m "Update $(date -u +%Y-%m-%d_%H%M)"
+          git add data output/report.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Update $(date -u +%Y-%m-%d_%H%M)"
+          git pull --rebase -X theirs origin main
           git push
