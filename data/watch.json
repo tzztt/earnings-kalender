@@ -1,0 +1,695 @@
+{
+ "generated": "2026-10-27T09:57:16.457718+00:00",
+ "items": [
+  {
+   "ticker": "BBAI",
+   "yahoo": "BBAI",
+   "name": "BigBear.ai, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "amc",
+   "ts": "2026-10-27T20:00:00+00:00"
+  },
+  {
+   "ticker": "BKR",
+   "yahoo": "BKR",
+   "name": "Baker Hughes Company",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "amc",
+   "ts": "2026-10-27T20:00:00+00:00"
+  },
+  {
+   "ticker": "CECO",
+   "yahoo": "CECO",
+   "name": "CECO Environmental Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "bmo",
+   "ts": "2026-10-27T12:30:00+00:00"
+  },
+  {
+   "ticker": "ENPH",
+   "yahoo": "ENPH",
+   "name": "Enphase Energy, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "amc",
+   "ts": "2026-10-27T20:00:00+00:00"
+  },
+  {
+   "ticker": "FCX",
+   "yahoo": "FCX",
+   "name": "Freeport-McMoRan, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "bmo",
+   "ts": "2026-10-27T12:30:00+00:00"
+  },
+  {
+   "ticker": "GLXY",
+   "yahoo": "GLXY",
+   "name": "Galaxy Digital Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "bmo",
+   "ts": "2026-10-27T12:30:00+00:00"
+  },
+  {
+   "ticker": "HOOD",
+   "yahoo": "HOOD",
+   "name": "Robinhood Markets, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "amc",
+   "ts": "2026-10-27T20:00:00+00:00"
+  },
+  {
+   "ticker": "HY9H",
+   "yahoo": "000660.KS",
+   "name": "SK hynix",
+   "tz": "Asia/Seoul",
+   "portfolio": true,
+   "date": "2026-10-27",
+   "time": "dmh",
+   "ts": "2026-10-27T06:00:00+00:00"
+  },
+  {
+   "ticker": "SOFI",
+   "yahoo": "SOFI",
+   "name": "SoFi Technologies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "bmo",
+   "ts": "2026-10-27T12:30:00+00:00"
+  },
+  {
+   "ticker": "TER",
+   "yahoo": "TER",
+   "name": "Teradyne, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-27",
+   "time": "amc",
+   "ts": "2026-10-27T20:00:00+00:00"
+  },
+  {
+   "ticker": "COHU",
+   "yahoo": "COHU",
+   "name": "Cohu, Inc.",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "FORM",
+   "yahoo": "FORM",
+   "name": "FormFactor, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "FTNT",
+   "yahoo": "FTNT",
+   "name": "Fortinet, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "GOOGL",
+   "yahoo": "GOOGL",
+   "name": "Alphabet Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "KLAC",
+   "yahoo": "KLAC",
+   "name": "KLA Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "LXU",
+   "yahoo": "LXU",
+   "name": "LSB Industries, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "MGM",
+   "yahoo": "MGM",
+   "name": "MGM Resorts International",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "MRAM",
+   "yahoo": "MRAM",
+   "name": "Everspin Technologies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "MSFT",
+   "yahoo": "MSFT",
+   "name": "Microsoft Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "NOW",
+   "yahoo": "NOW",
+   "name": "ServiceNow, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "OSS",
+   "yahoo": "OSS",
+   "name": "One Stop Systems, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "bmo",
+   "ts": "2026-10-28T12:30:00+00:00"
+  },
+  {
+   "ticker": "PLPC",
+   "yahoo": "PLPC",
+   "name": "Preformed Line Products Company",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "amc",
+   "ts": "2026-10-28T20:00:00+00:00"
+  },
+  {
+   "ticker": "PSN",
+   "yahoo": "PSN",
+   "name": "Parsons Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "bmo",
+   "ts": "2026-10-28T12:30:00+00:00"
+  },
+  {
+   "ticker": "VRT",
+   "yahoo": "VRT",
+   "name": "Vertiv Holdings, LLC",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-28",
+   "time": "bmo",
+   "ts": "2026-10-28T12:30:00+00:00"
+  },
+  {
+   "ticker": "ALGM",
+   "yahoo": "ALGM",
+   "name": "Allegro MicroSystems, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "AMZN",
+   "yahoo": "AMZN",
+   "name": "Amazon.com, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "AXTI",
+   "yahoo": "AXTI",
+   "name": "AXT Inc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "BDC",
+   "yahoo": "BDC",
+   "name": "Belden Inc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "CVE",
+   "yahoo": "CVE",
+   "name": "Cenovus Energy Inc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "FHL",
+   "yahoo": "FHL.F",
+   "name": "FHL",
+   "tz": "Europe/Berlin",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T06:00:00+00:00"
+  },
+  {
+   "ticker": "FSLR",
+   "yahoo": "FSLR",
+   "name": "First Solar, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "FTAI",
+   "yahoo": "FTAI",
+   "name": "FTAI Aviation Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "GDYN",
+   "yahoo": "GDYN",
+   "name": "Grid Dynamics Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "INTC",
+   "yahoo": "INTC",
+   "name": "Intel Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "LLY",
+   "yahoo": "LLY",
+   "name": "Eli Lilly and Company",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "LNG",
+   "yahoo": "LNG",
+   "name": "Cheniere Energy, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "MNRO",
+   "yahoo": "MNRO",
+   "name": "Monro, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "MPWR",
+   "yahoo": "MPWR",
+   "name": "Monolithic Power Systems, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "MSTR",
+   "yahoo": "MSTR",
+   "name": "Strategy Inc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "R6C0",
+   "yahoo": "SHEL",
+   "name": "Shell PLC",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "bmo",
+   "ts": "2026-10-29T12:30:00+00:00"
+  },
+  {
+   "ticker": "RKT",
+   "yahoo": "RKT",
+   "name": "Rocket Companies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "SNDK",
+   "yahoo": "SNDK",
+   "name": "Sandisk Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-29",
+   "time": "amc",
+   "ts": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "ticker": "CCJ",
+   "yahoo": "CCJ",
+   "name": "Cameco Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-30",
+   "time": "bmo",
+   "ts": "2026-10-30T12:30:00+00:00"
+  },
+  {
+   "ticker": "CVX",
+   "yahoo": "CVX",
+   "name": "Chevron Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-10-30",
+   "time": "bmo",
+   "ts": "2026-10-30T12:30:00+00:00"
+  },
+  {
+   "ticker": "AAPL",
+   "yahoo": "AAPL",
+   "name": "Apple Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "AEHR",
+   "yahoo": "AEHR",
+   "name": "Aehr Test Systems",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "BWXT",
+   "yahoo": "BWXT",
+   "name": "BWX Technologies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "CIFR",
+   "yahoo": "CIFR",
+   "name": "Cipher Digital Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "bmo",
+   "ts": "2026-11-02T12:30:00+00:00"
+  },
+  {
+   "ticker": "FN",
+   "yahoo": "FN",
+   "name": "Fabrinet",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "LSCC",
+   "yahoo": "LSCC",
+   "name": "Lattice Semiconductor Corporati",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "LTBR",
+   "yahoo": "LTBR",
+   "name": "Lightbridge Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "bmo",
+   "ts": "2026-11-02T12:30:00+00:00"
+  },
+  {
+   "ticker": "ON",
+   "yahoo": "ON",
+   "name": "ON Semiconductor Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "PLTR",
+   "yahoo": "PLTR",
+   "name": "Palantir Technologies Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "RXRX",
+   "yahoo": "RXRX",
+   "name": "Recursion Pharmaceuticals, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "TEM",
+   "yahoo": "TEM",
+   "name": "Tempus AI, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "bmo",
+   "ts": "2026-11-02T12:30:00+00:00"
+  },
+  {
+   "ticker": "UUUU",
+   "yahoo": "UUUU",
+   "name": "Energy Fuels Inc",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "VOYG",
+   "yahoo": "VOYG",
+   "name": "Voyager Technologies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-02",
+   "time": "dmh",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "ticker": "ALAB",
+   "yahoo": "ALAB",
+   "name": "Astera Labs, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "ALKS",
+   "yahoo": "ALKS",
+   "name": "Alkermes plc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "bmo",
+   "ts": "2026-11-03T12:30:00+00:00"
+  },
+  {
+   "ticker": "AMD",
+   "yahoo": "AMD",
+   "name": "Advanced Micro Devices, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "ANET",
+   "yahoo": "ANET",
+   "name": "Arista Networks, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "IPI",
+   "yahoo": "IPI",
+   "name": "Intrepid Potash, Inc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "LDOS",
+   "yahoo": "LDOS",
+   "name": "Leidos Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "bmo",
+   "ts": "2026-11-03T12:30:00+00:00"
+  },
+  {
+   "ticker": "METC",
+   "yahoo": "METC",
+   "name": "Ramaco Resources, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "MOD",
+   "yahoo": "MOD",
+   "name": "Modine Manufacturing Company",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "NVTS",
+   "yahoo": "NVTS",
+   "name": "Navitas Semiconductor Corporati",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "NXE",
+   "yahoo": "NXE",
+   "name": "Nexgen Energy Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "OVV",
+   "yahoo": "OVV",
+   "name": "Ovintiv Inc. (DE)",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "VRNS",
+   "yahoo": "VRNS",
+   "name": "Varonis Systems, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-03",
+   "time": "dmh",
+   "ts": "2026-11-03T20:00:00+00:00"
+  }
+ ]
+}

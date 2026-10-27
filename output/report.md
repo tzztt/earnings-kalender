@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 27.10.2026 00:18
+Stand: 27.10.2026 10:57
 
 ## Nicht abrufbar (2)
 
@@ -11,13 +11,14 @@ Stand: 27.10.2026 00:18
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (14)
+## Ohne kommenden Earnings-Termin (15)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
+- NASDAQ:RMBS → RMBS
 - XETR:4DS → 4DS.AX
-- NASDAQ:OCC → OCC
 - NASDAQ:GFAI → GFAI
+- NASDAQ:RZLV → RZLV
 - NASDAQ:BTQ → BTQ
 - HKEX:9880 → 9880.HK
 - NASDAQ:MTEK → MTEK
