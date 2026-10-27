@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 27.10.2026 10:57
+Stand: 27.10.2026 13:55
 
 ## Nicht abrufbar (2)
 
@@ -11,11 +11,10 @@ Stand: 27.10.2026 10:57
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (15)
+## Ohne kommenden Earnings-Termin (14)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
-- NASDAQ:RMBS → RMBS
 - XETR:4DS → 4DS.AX
 - NASDAQ:GFAI → GFAI
 - NASDAQ:RZLV → RZLV
