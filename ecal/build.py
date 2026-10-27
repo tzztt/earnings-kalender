@@ -256,6 +256,7 @@ def run(args):
                     "crv": {k: v["crv"] for k, v in (snap.get("crv") or {}).items()},
                 }
 
+    write_watch(rows, active, Path(args.watch_out), today)
     cal = build_calendar(rows, customers, state, cfg, today)
     (out_dir / "earnings.ics").write_text(cal.to_ics(), encoding="utf-8", newline="")
     write_dashboard(rows, customers, out_dir / "dashboard.json")
@@ -264,6 +265,25 @@ def run(args):
     state_path.parent.mkdir(parents=True, exist_ok=True)
     state_path.write_text(json.dumps(state, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     log.info("Fertig: %d Termine in %s", len(cal.events), out_dir / "earnings.ics")
+
+
+def write_watch(rows, active, path: Path, today):
+    """Terminliste für den Wächter (ecal.watch): alles, was in den nächsten Tagen gemeldet wird
+    oder gestern gemeldet wurde und noch keine Ist-Zahlen hat."""
+    tz_of = {e.ticker: e.tz for e in active}
+    lo, hi = (today - timedelta(days=1)).isoformat(), (today + timedelta(days=7)).isoformat()
+    items = []
+    for t, r in rows.items():
+        cands = ([r["next"]] if r["next"] else []) + [h for h in r["history"] if h.get("eps_act") is None]
+        for c in cands:
+            if lo <= c["date"] <= hi and c.get("eps_act") is None:
+                items.append({"ticker": t, "yahoo": r["yahoo"], "name": r["name"], "tz": tz_of.get(t, "America/New_York"),
+                              "portfolio": bool(r["portfolio"]), "date": c["date"], "time": c.get("time"),
+                              "ts": c.get("ts")})
+    items.sort(key=lambda x: (x["date"], x["ticker"]))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps({"generated": datetime.now(timezone.utc).isoformat(), "items": items},
+                               ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def build_calendar(rows, customers, state, cfg, today) -> Calendar:
@@ -415,6 +435,7 @@ def main(argv=None):
     p.add_argument("--watchlist", default="watchlist.txt")
     p.add_argument("--out", default=str(ROOT / "output"))
     p.add_argument("--state", default=str(ROOT / "data" / "state.json"))
+    p.add_argument("--watch-out", default=str(ROOT / "data" / "watch.json"))
     p.add_argument("--limit", type=int, default=0, help="nur die ersten N Werte (Test)")
     args = p.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s", stream=sys.stdout)
