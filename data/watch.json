@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T15:36:38.999907+00:00",
+ "generated": "2026-10-27T23:20:00.391017+00:00",
  "items": [
   {
    "ticker": "BBAI",
@@ -22,16 +22,6 @@
    "ts": "2026-10-27T20:00:00+00:00"
   },
   {
-   "ticker": "CECO",
-   "yahoo": "CECO",
-   "name": "CECO Environmental Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-27",
-   "time": "bmo",
-   "ts": "2026-10-27T12:30:00+00:00"
-  },
-  {
    "ticker": "ENPH",
    "yahoo": "ENPH",
    "name": "Enphase Energy, Inc.",
@@ -40,16 +30,6 @@
    "date": "2026-10-27",
    "time": "amc",
    "ts": "2026-10-27T20:00:00+00:00"
-  },
-  {
-   "ticker": "FCX",
-   "yahoo": "FCX",
-   "name": "Freeport-McMoRan, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-27",
-   "time": "bmo",
-   "ts": "2026-10-27T12:30:00+00:00"
   },
   {
    "ticker": "HOOD",
