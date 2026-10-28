@@ -1,40 +1,10 @@
 {
- "generated": "2026-10-27T23:20:00.391017+00:00",
+ "generated": "2026-10-28T02:56:30.327233+00:00",
  "items": [
   {
    "ticker": "BBAI",
    "yahoo": "BBAI",
    "name": "BigBear.ai, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-27",
-   "time": "amc",
-   "ts": "2026-10-27T20:00:00+00:00"
-  },
-  {
-   "ticker": "BKR",
-   "yahoo": "BKR",
-   "name": "Baker Hughes Company",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-27",
-   "time": "amc",
-   "ts": "2026-10-27T20:00:00+00:00"
-  },
-  {
-   "ticker": "ENPH",
-   "yahoo": "ENPH",
-   "name": "Enphase Energy, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-27",
-   "time": "amc",
-   "ts": "2026-10-27T20:00:00+00:00"
-  },
-  {
-   "ticker": "HOOD",
-   "yahoo": "HOOD",
-   "name": "Robinhood Markets, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-27",
@@ -50,16 +20,6 @@
    "date": "2026-10-27",
    "time": "dmh",
    "ts": "2026-10-27T06:00:00+00:00"
-  },
-  {
-   "ticker": "TER",
-   "yahoo": "TER",
-   "name": "Teradyne, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-27",
-   "time": "amc",
-   "ts": "2026-10-27T20:00:00+00:00"
   },
   {
    "ticker": "COHU",
@@ -650,6 +610,226 @@
    "date": "2026-11-03",
    "time": "dmh",
    "ts": "2026-11-03T20:00:00+00:00"
+  },
+  {
+   "ticker": "ALB",
+   "yahoo": "ALB",
+   "name": "Albemarle Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "AMSC",
+   "yahoo": "AMSC",
+   "name": "American Superconductor Corpora",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "APP",
+   "yahoo": "APP",
+   "name": "Applovin Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "ARM",
+   "yahoo": "ARM",
+   "name": "Arm Holdings plc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "CAMT",
+   "yahoo": "CAMT",
+   "name": "Camtek Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "COHR",
+   "yahoo": "COHR",
+   "name": "Coherent Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "CRCL",
+   "yahoo": "CRCL",
+   "name": "Circle Internet Group, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "GFS",
+   "yahoo": "GFS",
+   "name": "GlobalFoundries Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "HUT",
+   "yahoo": "HUT",
+   "name": "Hut 8 Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "LEU",
+   "yahoo": "LEU",
+   "name": "Centrus Energy Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "MARA",
+   "yahoo": "MARA",
+   "name": "MARA Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "MKSI",
+   "yahoo": "MKSI",
+   "name": "MKS Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "PAAS",
+   "yahoo": "PAAS",
+   "name": "Pan American Silver Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "QCOM",
+   "yahoo": "QCOM",
+   "name": "QUALCOMM Incorporated",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "RDW",
+   "yahoo": "RDW",
+   "name": "Redwire Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "RIOT",
+   "yahoo": "RIOT",
+   "name": "Riot Platforms, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "RPD",
+   "yahoo": "RPD",
+   "name": "Rapid7, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "RUN",
+   "yahoo": "RUN",
+   "name": "Sunrun Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "SITM",
+   "yahoo": "SITM",
+   "name": "SiTime Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "TNGX",
+   "yahoo": "TNGX",
+   "name": "Tango Therapeutics, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "VPG",
+   "yahoo": "VPG",
+   "name": "Vishay Precision Group, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "WOLF",
+   "yahoo": "WOLF",
+   "name": "Wolfspeed, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
   }
  ]
 }
