@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 28.10.2026 13:53
+Stand: 28.10.2026 16:40
 
 ## Nicht abrufbar (2)
 
@@ -16,8 +16,8 @@ Stand: 28.10.2026 13:53
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
 - XETR:4DS → 4DS.AX
-- NASDAQ:OCC → OCC
 - NASDAQ:GFAI → GFAI
+- NASDAQ:RZLV → RZLV
 - NASDAQ:BTQ → BTQ
 - HKEX:9880 → 9880.HK
 - NASDAQ:MTEK → MTEK
