@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 28.10.2026 03:56
+Stand: 28.10.2026 08:09
 
 ## Nicht abrufbar (2)
 
@@ -11,15 +11,14 @@ Stand: 28.10.2026 03:56
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (23)
+## Ohne kommenden Earnings-Termin (22)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
-- GETTEX:HY9H → 000660.KS
 - XETR:4DS → 4DS.AX
 - NASDAQ:TER → TER
+- NASDAQ:OCC → OCC
 - NASDAQ:GFAI → GFAI
-- NASDAQ:RZLV → RZLV
 - NASDAQ:GLXY → GLXY
 - NASDAQ:HOOD → HOOD
 - NASDAQ:BTQ → BTQ
