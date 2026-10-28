@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T07:09:03.081305+00:00",
+ "generated": "2026-10-28T13:04:23.237624+00:00",
  "items": [
   {
    "ticker": "COHU",
@@ -120,26 +120,6 @@
    "date": "2026-10-28",
    "time": "amc",
    "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "PSN",
-   "yahoo": "PSN",
-   "name": "Parsons Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "bmo",
-   "ts": "2026-10-28T12:30:00+00:00"
-  },
-  {
-   "ticker": "VRT",
-   "yahoo": "VRT",
-   "name": "Vertiv Holdings, LLC",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "bmo",
-   "ts": "2026-10-28T12:30:00+00:00"
   },
   {
    "ticker": "ALGM",
@@ -450,16 +430,6 @@
    "date": "2026-11-02",
    "time": "bmo",
    "ts": "2026-11-02T12:30:00+00:00"
-  },
-  {
-   "ticker": "UUUU",
-   "yahoo": "UUUU",
-   "name": "Energy Fuels Inc",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
   },
   {
    "ticker": "VOYG",
@@ -790,6 +760,16 @@
    "date": "2026-11-04",
    "time": "bmo",
    "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "UUUU",
+   "yahoo": "UUUU",
+   "name": "Energy Fuels Inc",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-04",
+   "time": "dmh",
+   "ts": "2026-11-04T20:00:00+00:00"
   },
   {
    "ticker": "VPG",
