@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T15:40:08.036359+00:00",
+ "generated": "2026-10-28T23:23:15.684512+00:00",
  "items": [
   {
    "ticker": "COHU",
@@ -15,16 +15,6 @@
    "ticker": "FORM",
    "yahoo": "FORM",
    "name": "FormFactor, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "FTNT",
-   "yahoo": "FTNT",
-   "name": "Fortinet, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-28",
@@ -102,16 +92,6 @@
    "ts": "2026-10-28T20:00:00+00:00"
   },
   {
-   "ticker": "OSS",
-   "yahoo": "OSS",
-   "name": "One Stop Systems, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "bmo",
-   "ts": "2026-10-28T12:30:00+00:00"
-  },
-  {
    "ticker": "PLPC",
    "yahoo": "PLPC",
    "name": "Preformed Line Products Company",
@@ -155,16 +135,6 @@
    "ticker": "BDC",
    "yahoo": "BDC",
    "name": "Belden Inc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
-  },
-  {
-   "ticker": "CVE",
-   "yahoo": "CVE",
-   "name": "Cenovus Energy Inc",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-29",
@@ -625,6 +595,16 @@
    "ticker": "CRCL",
    "yahoo": "CRCL",
    "name": "Circle Internet Group, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-04",
+   "time": "bmo",
+   "ts": "2026-11-04T12:30:00+00:00"
+  },
+  {
+   "ticker": "CVE",
+   "yahoo": "CVE",
+   "name": "Cenovus Energy Inc",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
