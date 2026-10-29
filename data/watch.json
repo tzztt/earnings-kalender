@@ -1,16 +1,6 @@
 {
- "generated": "2026-10-29T07:10:28.348985+00:00",
+ "generated": "2026-10-29T12:32:10.266825+00:00",
  "items": [
-  {
-   "ticker": "MRAM",
-   "yahoo": "MRAM",
-   "name": "Everspin Technologies, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
   {
    "ticker": "ALGM",
    "yahoo": "ALGM",
@@ -150,16 +140,6 @@
    "date": "2026-10-29",
    "time": "amc",
    "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "R6C0",
-   "yahoo": "SHEL",
-   "name": "Shell PLC",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
   },
   {
    "ticker": "RKT",
