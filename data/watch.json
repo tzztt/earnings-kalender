@@ -1,40 +1,10 @@
 {
- "generated": "2026-10-29T02:59:05.871108+00:00",
+ "generated": "2026-10-29T07:10:28.348985+00:00",
  "items": [
-  {
-   "ticker": "COHU",
-   "yahoo": "COHU",
-   "name": "Cohu, Inc.",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "LXU",
-   "yahoo": "LXU",
-   "name": "LSB Industries, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
   {
    "ticker": "MRAM",
    "yahoo": "MRAM",
    "name": "Everspin Technologies, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "PLPC",
-   "yahoo": "PLPC",
-   "name": "Preformed Line Products Company",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-28",

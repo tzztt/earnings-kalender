@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 29.10.2026 03:59
+Stand: 29.10.2026 08:10
 
 ## Nicht abrufbar (2)
 
@@ -20,10 +20,10 @@ Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eint
 - NASDAQ:MRAM → MRAM
 - NASDAQ:FORM → FORM
 - NASDAQ:KLAC → KLAC
-- NASDAQ:OCC → OCC
 - NASDAQ:OSS → OSS
 - NYSE:VRT → VRT
 - NASDAQ:GFAI → GFAI
+- NASDAQ:RZLV → RZLV
 - NASDAQ:FTNT → FTNT
 - NYSE:PSN → PSN
 - NASDAQ:BTQ → BTQ
