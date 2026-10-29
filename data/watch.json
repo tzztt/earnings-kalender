@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T23:23:15.684512+00:00",
+ "generated": "2026-10-29T02:59:05.871108+00:00",
  "items": [
   {
    "ticker": "COHU",
@@ -7,36 +7,6 @@
    "name": "Cohu, Inc.",
    "tz": "America/New_York",
    "portfolio": true,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "FORM",
-   "yahoo": "FORM",
-   "name": "FormFactor, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "GOOGL",
-   "yahoo": "GOOGL",
-   "name": "Alphabet Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "KLAC",
-   "yahoo": "KLAC",
-   "name": "KLA Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
    "date": "2026-10-28",
    "time": "amc",
    "ts": "2026-10-28T20:00:00+00:00"
@@ -52,39 +22,9 @@
    "ts": "2026-10-28T20:00:00+00:00"
   },
   {
-   "ticker": "MGM",
-   "yahoo": "MGM",
-   "name": "MGM Resorts International",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
    "ticker": "MRAM",
    "yahoo": "MRAM",
    "name": "Everspin Technologies, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "MSFT",
-   "yahoo": "MSFT",
-   "name": "Microsoft Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-28",
-   "time": "amc",
-   "ts": "2026-10-28T20:00:00+00:00"
-  },
-  {
-   "ticker": "NOW",
-   "yahoo": "NOW",
-   "name": "ServiceNow, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-28",
@@ -770,6 +710,326 @@
    "date": "2026-11-04",
    "time": "dmh",
    "ts": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "ticker": "AAOI",
+   "yahoo": "AAOI",
+   "name": "Applied Optoelectronics, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "ACRS",
+   "yahoo": "ACRS",
+   "name": "Aclaris Therapeutics, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "AIP",
+   "yahoo": "AIP",
+   "name": "Arteris, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "AKAM",
+   "yahoo": "AKAM",
+   "name": "Akamai Technologies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "ATS",
+   "yahoo": "ATS.VI",
+   "name": "AT&S Austria Tech.&Systemtech.",
+   "tz": "Europe/Vienna",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "amc",
+   "ts": "2026-11-05T16:35:00+00:00"
+  },
+  {
+   "ticker": "COP",
+   "yahoo": "COP",
+   "name": "ConocoPhillips",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "CORZ",
+   "yahoo": "CORZ",
+   "name": "Core Scientific, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "DIOD",
+   "yahoo": "DIOD",
+   "name": "Diodes Incorporated",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "EOG",
+   "yahoo": "EOG",
+   "name": "EOG Resources, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "EOSE",
+   "yahoo": "EOSE",
+   "name": "Eos Energy Enterprises, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "HIMX",
+   "yahoo": "HIMX",
+   "name": "Himax Technologies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "INDI",
+   "yahoo": "INDI",
+   "name": "indie Semiconductor, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "INOD",
+   "yahoo": "INOD",
+   "name": "Innodata Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "IONQ",
+   "yahoo": "IONQ",
+   "name": "IonQ, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "IREN",
+   "yahoo": "IREN",
+   "name": "IREN LIMITED",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "ISOU",
+   "yahoo": "ISOU",
+   "name": "IsoEnergy Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "KEEL",
+   "yahoo": "KEEL",
+   "name": "Keel Infrastructure Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "LASR",
+   "yahoo": "LASR",
+   "name": "nLIGHT, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "LIDR",
+   "yahoo": "LIDR",
+   "name": "AEye, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "LITE",
+   "yahoo": "LITE",
+   "name": "Lumentum Holdings Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "MP",
+   "yahoo": "MP",
+   "name": "MP Materials Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "MTSI",
+   "yahoo": "MTSI",
+   "name": "MACOM Technology Solutions Hold",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "NOG",
+   "yahoo": "NOG",
+   "name": "Northern Oil and Gas, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "PH",
+   "yahoo": "PH",
+   "name": "Parker-Hannifin Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "QNT",
+   "yahoo": "QNT",
+   "name": "Quantinuum Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "RANI",
+   "yahoo": "RANI",
+   "name": "Rani Therapeutics Holdings, Inc",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "RGNX",
+   "yahoo": "RGNX",
+   "name": "REGENXBIO Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "SERV",
+   "yahoo": "SERV",
+   "name": "Serve Robotics Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "SLI",
+   "yahoo": "SLI",
+   "name": "Standard Lithium Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
+  },
+  {
+   "ticker": "SMR",
+   "yahoo": "SMR",
+   "name": "NuScale Power Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "SYNA",
+   "yahoo": "SYNA",
+   "name": "Synaptics Incorporated",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "USAR",
+   "yahoo": "USAR",
+   "name": "USA Rare Earth, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
   }
  ]
 }
