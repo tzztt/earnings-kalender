@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T15:40:50.076052+00:00",
+ "generated": "2026-10-29T23:24:35.978896+00:00",
  "items": [
   {
    "ticker": "AMZN",
@@ -22,9 +22,9 @@
    "ts": "2026-10-29T20:00:00+00:00"
   },
   {
-   "ticker": "FSLR",
-   "yahoo": "FSLR",
-   "name": "First Solar, Inc.",
+   "ticker": "BHVN",
+   "yahoo": "BHVN",
+   "name": "Biohaven Ltd.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-29",
@@ -40,26 +40,6 @@
    "date": "2026-10-29",
    "time": "amc",
    "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "INTC",
-   "yahoo": "INTC",
-   "name": "Intel Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "amc",
-   "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "MNRO",
-   "yahoo": "MNRO",
-   "name": "Monro, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
   },
   {
    "ticker": "MPWR",
@@ -650,6 +630,16 @@
    "date": "2026-11-05",
    "time": "amc",
    "ts": "2026-11-05T16:35:00+00:00"
+  },
+  {
+   "ticker": "CELH",
+   "yahoo": "CELH",
+   "name": "Celsius Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "bmo",
+   "ts": "2026-11-05T12:30:00+00:00"
   },
   {
    "ticker": "COP",
