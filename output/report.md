@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 29.10.2026 14:06
+Stand: 29.10.2026 15:04
 
 ## Nicht abrufbar (2)
 
@@ -11,7 +11,7 @@ Stand: 29.10.2026 14:06
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (14)
+## Ohne kommenden Earnings-Termin (15)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
@@ -26,6 +26,7 @@ Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eint
 - AMEX:MAIA → MAIA
 - HKEX:2513 → 2513.HK
 - SSE:603986 → 603986.SS
+- TRADEGATE:FHL → FHL.F
 - TRADEGATE:RI7 → RI7.F
 - NASDAQ:STI → STI
 - NASDAQ:SAIQ → SAIQ

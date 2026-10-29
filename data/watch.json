@@ -1,16 +1,6 @@
 {
- "generated": "2026-10-29T13:06:17.802784+00:00",
+ "generated": "2026-10-29T14:04:38.577713+00:00",
  "items": [
-  {
-   "ticker": "ALGM",
-   "yahoo": "ALGM",
-   "name": "Allegro MicroSystems, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
-  },
   {
    "ticker": "AMZN",
    "yahoo": "AMZN",
@@ -32,26 +22,6 @@
    "ts": "2026-10-29T20:00:00+00:00"
   },
   {
-   "ticker": "BDC",
-   "yahoo": "BDC",
-   "name": "Belden Inc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
-  },
-  {
-   "ticker": "FHL",
-   "yahoo": "FHL.F",
-   "name": "FHL",
-   "tz": "Europe/Berlin",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T06:00:00+00:00"
-  },
-  {
    "ticker": "FSLR",
    "yahoo": "FSLR",
    "name": "First Solar, Inc.",
@@ -60,16 +30,6 @@
    "date": "2026-10-29",
    "time": "amc",
    "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "FTAI",
-   "yahoo": "FTAI",
-   "name": "FTAI Aviation Ltd.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
   },
   {
    "ticker": "GDYN",
@@ -90,26 +50,6 @@
    "date": "2026-10-29",
    "time": "amc",
    "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "LLY",
-   "yahoo": "LLY",
-   "name": "Eli Lilly and Company",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
-  },
-  {
-   "ticker": "LNG",
-   "yahoo": "LNG",
-   "name": "Cheniere Energy, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "bmo",
-   "ts": "2026-10-29T12:30:00+00:00"
   },
   {
    "ticker": "MNRO",
