@@ -1,16 +1,6 @@
 {
- "generated": "2026-10-29T23:24:35.978896+00:00",
+ "generated": "2026-10-30T02:58:57.575659+00:00",
  "items": [
-  {
-   "ticker": "AMZN",
-   "yahoo": "AMZN",
-   "name": "Amazon.com, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "amc",
-   "ts": "2026-10-29T20:00:00+00:00"
-  },
   {
    "ticker": "AXTI",
    "yahoo": "AXTI",
@@ -65,16 +55,6 @@
    "ticker": "RKT",
    "yahoo": "RKT",
    "name": "Rocket Companies, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "amc",
-   "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "SNDK",
-   "yahoo": "SNDK",
-   "name": "Sandisk Corporation",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-29",
@@ -910,6 +890,56 @@
    "date": "2026-11-05",
    "time": "dmh",
    "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "INTT",
+   "yahoo": "INTT",
+   "name": "inTest Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-06",
+   "time": "bmo",
+   "ts": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "ticker": "MRNA",
+   "yahoo": "MRNA",
+   "name": "Moderna, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-06",
+   "time": "bmo",
+   "ts": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "ticker": "OKLO",
+   "yahoo": "OKLO",
+   "name": "Oklo Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-06",
+   "time": "bmo",
+   "ts": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "ticker": "VST",
+   "yahoo": "VST",
+   "name": "Vistra Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-06",
+   "time": "bmo",
+   "ts": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "ticker": "WULF",
+   "yahoo": "WULF",
+   "name": "TeraWulf Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-06",
+   "time": "bmo",
+   "ts": "2026-11-06T12:30:00+00:00"
   }
  ]
 }

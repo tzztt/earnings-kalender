@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 30.10.2026 00:24
+Stand: 30.10.2026 03:58
 
 ## Nicht abrufbar (2)
 
@@ -11,21 +11,38 @@ Stand: 30.10.2026 00:24
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (14)
+## Ohne kommenden Earnings-Termin (31)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
+- NASDAQ:INTC → INTC
+- NASDAQ:ALGM → ALGM
+- NASDAQ:MPWR → MPWR
 - XETR:4DS → 4DS.AX
-- NASDAQ:OCC → OCC
+- NASDAQ:SNDK → SNDK
+- NASDAQ:AXTI → AXTI
+- NASDAQ:GDYN → GDYN
 - NASDAQ:GFAI → GFAI
+- NASDAQ:RZLV → RZLV
+- NASDAQ:MSTR → MSTR
 - NASDAQ:BTQ → BTQ
 - HKEX:9880 → 9880.HK
 - NASDAQ:MTEK → MTEK
 - NASDAQ:OPTX → OPTX
+- NASDAQ:AMZN → AMZN
+- NASDAQ:FSLR → FSLR
+- GETTEX:R6C0 → SHEL
+- NYSE:LNG → LNG
 - NASDAQ:CRML → CRML
 - AMEX:MAIA → MAIA
+- NYSE:BHVN → BHVN
+- NYSE:LLY → LLY
+- NYSE:RKT → RKT
+- NYSE:BDC → BDC
+- NASDAQ:MNRO → MNRO
 - HKEX:2513 → 2513.HK
 - TRADEGATE:FHL → FHL.F
 - TRADEGATE:RI7 → RI7.F
 - NASDAQ:STI → STI
+- NASDAQ:FTAI → FTAI
 - NASDAQ:SAIQ → SAIQ
