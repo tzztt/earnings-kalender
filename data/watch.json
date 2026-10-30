@@ -1,20 +1,10 @@
 {
- "generated": "2026-10-30T13:05:09.492469+00:00",
+ "generated": "2026-10-30T14:02:44.568637+00:00",
  "items": [
   {
    "ticker": "CCJ",
    "yahoo": "CCJ",
    "name": "Cameco Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-30",
-   "time": "bmo",
-   "ts": "2026-10-30T12:30:00+00:00"
-  },
-  {
-   "ticker": "CVX",
-   "yahoo": "CVX",
-   "name": "Chevron Corporation",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-10-30",
@@ -815,6 +805,16 @@
    "ticker": "SYNA",
    "yahoo": "SYNA",
    "name": "Synaptics Incorporated",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-05",
+   "time": "dmh",
+   "ts": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "ticker": "TSSI",
+   "yahoo": "TSSI",
+   "name": "TSS, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
