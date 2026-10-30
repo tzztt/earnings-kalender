@@ -1,36 +1,6 @@
 {
- "generated": "2026-10-30T07:12:15.999995+00:00",
+ "generated": "2026-10-30T13:05:09.492469+00:00",
  "items": [
-  {
-   "ticker": "AXTI",
-   "yahoo": "AXTI",
-   "name": "AXT Inc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "amc",
-   "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "BHVN",
-   "yahoo": "BHVN",
-   "name": "Biohaven Ltd.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "amc",
-   "ts": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "ticker": "MSTR",
-   "yahoo": "MSTR",
-   "name": "Strategy Inc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-29",
-   "time": "amc",
-   "ts": "2026-10-29T20:00:00+00:00"
-  },
   {
    "ticker": "CCJ",
    "yahoo": "CCJ",
