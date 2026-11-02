@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T15:46:59.580771+00:00",
+ "generated": "2026-11-02T23:28:07.120740+00:00",
  "items": [
   {
    "ticker": "AAPL",
@@ -60,16 +60,6 @@
    "date": "2026-11-02",
    "time": "bmo",
    "ts": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "ticker": "ON",
-   "yahoo": "ON",
-   "name": "ON Semiconductor Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-02",
-   "time": "amc",
-   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "PLTR",
