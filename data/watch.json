@@ -1,16 +1,6 @@
 {
- "generated": "2026-10-31T02:58:22.035224+00:00",
+ "generated": "2026-11-02T07:40:14.035564+00:00",
  "items": [
-  {
-   "ticker": "CCJ",
-   "yahoo": "CCJ",
-   "name": "Cameco Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-10-30",
-   "time": "bmo",
-   "ts": "2026-10-30T12:30:00+00:00"
-  },
   {
    "ticker": "AAPL",
    "yahoo": "AAPL",
@@ -18,8 +8,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "AEHR",
@@ -28,8 +18,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "BWXT",
@@ -38,8 +28,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "CIFR",
@@ -49,7 +39,7 @@
    "portfolio": false,
    "date": "2026-11-02",
    "time": "bmo",
-   "ts": "2026-11-02T12:30:00+00:00"
+   "ts": "2026-11-02T13:30:00+00:00"
   },
   {
    "ticker": "FN",
@@ -58,8 +48,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "LSCC",
@@ -68,8 +58,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "LTBR",
@@ -79,7 +69,7 @@
    "portfolio": false,
    "date": "2026-11-02",
    "time": "bmo",
-   "ts": "2026-11-02T12:30:00+00:00"
+   "ts": "2026-11-02T13:30:00+00:00"
   },
   {
    "ticker": "ON",
@@ -88,8 +78,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "PLTR",
@@ -98,8 +88,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "RXRX",
@@ -108,8 +98,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "TEM",
@@ -119,7 +109,7 @@
    "portfolio": false,
    "date": "2026-11-02",
    "time": "bmo",
-   "ts": "2026-11-02T12:30:00+00:00"
+   "ts": "2026-11-02T13:30:00+00:00"
   },
   {
    "ticker": "VOYG",
@@ -128,8 +118,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-02",
-   "time": "dmh",
-   "ts": "2026-11-02T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "ALAB",
@@ -138,8 +128,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "ALKS",
@@ -149,7 +139,7 @@
    "portfolio": false,
    "date": "2026-11-03",
    "time": "bmo",
-   "ts": "2026-11-03T12:30:00+00:00"
+   "ts": "2026-11-03T13:30:00+00:00"
   },
   {
    "ticker": "AMD",
@@ -158,8 +148,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "ANET",
@@ -168,8 +158,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "IPI",
@@ -178,8 +168,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "LDOS",
@@ -189,7 +179,7 @@
    "portfolio": false,
    "date": "2026-11-03",
    "time": "bmo",
-   "ts": "2026-11-03T12:30:00+00:00"
+   "ts": "2026-11-03T13:30:00+00:00"
   },
   {
    "ticker": "METC",
@@ -198,8 +188,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "MOD",
@@ -208,8 +198,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "NVTS",
@@ -218,8 +208,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "NXE",
@@ -228,8 +218,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "OVV",
@@ -238,8 +228,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "VRNS",
@@ -248,8 +238,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-03",
-   "time": "dmh",
-   "ts": "2026-11-03T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-03T21:00:00+00:00"
   },
   {
    "ticker": "ALB",
@@ -258,8 +248,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "AMSC",
@@ -268,8 +258,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "APP",
@@ -278,8 +268,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "ARM",
@@ -288,8 +278,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "CAMT",
@@ -299,7 +289,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "COHR",
@@ -308,8 +298,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "CRCL",
@@ -319,7 +309,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "CVE",
@@ -329,7 +319,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "GFS",
@@ -339,7 +329,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "HUT",
@@ -349,7 +339,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "LEU",
@@ -358,8 +348,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "MARA",
@@ -368,8 +358,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "MKSI",
@@ -378,8 +368,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "PAAS",
@@ -388,8 +378,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "QCOM",
@@ -398,8 +388,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "RDW",
@@ -408,8 +398,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "RIOT",
@@ -419,7 +409,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "RPD",
@@ -428,8 +418,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "RUN",
@@ -438,8 +428,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "SITM",
@@ -448,8 +438,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "TNGX",
@@ -459,7 +449,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "UUUU",
@@ -468,8 +458,8 @@
    "tz": "America/New_York",
    "portfolio": true,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "VPG",
@@ -479,7 +469,7 @@
    "portfolio": false,
    "date": "2026-11-04",
    "time": "bmo",
-   "ts": "2026-11-04T12:30:00+00:00"
+   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "WOLF",
@@ -488,8 +478,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
-   "time": "dmh",
-   "ts": "2026-11-04T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-04T21:00:00+00:00"
   },
   {
    "ticker": "AAOI",
@@ -498,8 +488,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "ACRS",
@@ -509,7 +499,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "AIP",
@@ -518,8 +508,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "AKAM",
@@ -528,8 +518,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "ATS",
@@ -549,7 +539,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "COP",
@@ -559,7 +549,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "CORZ",
@@ -569,7 +559,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "DIOD",
@@ -578,8 +568,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "EOG",
@@ -588,8 +578,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "EOSE",
@@ -599,7 +589,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "HIMX",
@@ -609,7 +599,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "INDI",
@@ -618,8 +608,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "INOD",
@@ -628,8 +618,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "IONQ",
@@ -638,8 +628,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "IREN",
@@ -648,8 +638,8 @@
    "tz": "America/New_York",
    "portfolio": true,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "ISOU",
@@ -658,8 +648,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "KEEL",
@@ -669,7 +659,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "LASR",
@@ -678,8 +668,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "LIDR",
@@ -688,8 +678,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "LITE",
@@ -698,8 +688,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "MP",
@@ -708,8 +698,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "MTSI",
@@ -719,7 +709,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "NOG",
@@ -728,8 +718,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "PH",
@@ -739,7 +729,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "QNT",
@@ -748,8 +738,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "RANI",
@@ -758,8 +748,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "RGNX",
@@ -769,7 +759,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "SERV",
@@ -778,8 +768,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "SLI",
@@ -789,7 +779,7 @@
    "portfolio": false,
    "date": "2026-11-05",
    "time": "bmo",
-   "ts": "2026-11-05T12:30:00+00:00"
+   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "SMR",
@@ -798,8 +788,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "SYNA",
@@ -808,8 +798,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "TSSI",
@@ -818,8 +808,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "USAR",
@@ -828,8 +818,8 @@
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
-   "time": "dmh",
-   "ts": "2026-11-05T20:00:00+00:00"
+   "time": "amc",
+   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "INTT",
@@ -839,7 +829,7 @@
    "portfolio": false,
    "date": "2026-11-06",
    "time": "bmo",
-   "ts": "2026-11-06T12:30:00+00:00"
+   "ts": "2026-11-06T13:30:00+00:00"
   },
   {
    "ticker": "MRNA",
@@ -849,7 +839,7 @@
    "portfolio": false,
    "date": "2026-11-06",
    "time": "bmo",
-   "ts": "2026-11-06T12:30:00+00:00"
+   "ts": "2026-11-06T13:30:00+00:00"
   },
   {
    "ticker": "OKLO",
@@ -859,7 +849,7 @@
    "portfolio": false,
    "date": "2026-11-06",
    "time": "bmo",
-   "ts": "2026-11-06T12:30:00+00:00"
+   "ts": "2026-11-06T13:30:00+00:00"
   },
   {
    "ticker": "VST",
@@ -869,7 +859,7 @@
    "portfolio": false,
    "date": "2026-11-06",
    "time": "bmo",
-   "ts": "2026-11-06T12:30:00+00:00"
+   "ts": "2026-11-06T13:30:00+00:00"
   },
   {
    "ticker": "WULF",
@@ -879,7 +869,97 @@
    "portfolio": false,
    "date": "2026-11-06",
    "time": "bmo",
-   "ts": "2026-11-06T12:30:00+00:00"
+   "ts": "2026-11-06T13:30:00+00:00"
+  },
+  {
+   "ticker": "AMRC",
+   "yahoo": "AMRC",
+   "name": "Ameresco, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "amc",
+   "ts": "2026-11-09T21:00:00+00:00"
+  },
+  {
+   "ticker": "ASTS",
+   "yahoo": "ASTS",
+   "name": "AST SpaceMobile, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "amc",
+   "ts": "2026-11-09T21:00:00+00:00"
+  },
+  {
+   "ticker": "BW",
+   "yahoo": "BW",
+   "name": "Babcock & Wilcox Enterprises, I",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "amc",
+   "ts": "2026-11-09T21:00:00+00:00"
+  },
+  {
+   "ticker": "CECO",
+   "yahoo": "CECO",
+   "name": "CECO Environmental Corp.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "bmo",
+   "ts": "2026-11-09T13:30:00+00:00"
+  },
+  {
+   "ticker": "CEG",
+   "yahoo": "CEG",
+   "name": "Constellation Energy Corporatio",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "bmo",
+   "ts": "2026-11-09T13:30:00+00:00"
+  },
+  {
+   "ticker": "CEVA",
+   "yahoo": "CEVA",
+   "name": "CEVA, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "bmo",
+   "ts": "2026-11-09T13:30:00+00:00"
+  },
+  {
+   "ticker": "FRVO",
+   "yahoo": "FRVO",
+   "name": "Fervo Energy Company",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "bmo",
+   "ts": "2026-11-09T13:30:00+00:00"
+  },
+  {
+   "ticker": "HIMS",
+   "yahoo": "HIMS",
+   "name": "Hims & Hers Health, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "amc",
+   "ts": "2026-11-09T21:00:00+00:00"
+  },
+  {
+   "ticker": "RKLB",
+   "yahoo": "RKLB",
+   "name": "Rocket Lab Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "amc",
+   "ts": "2026-11-09T21:00:00+00:00"
   }
  ]
 }
