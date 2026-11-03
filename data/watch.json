@@ -1,26 +1,6 @@
 {
- "generated": "2026-11-03T03:01:32.965985+00:00",
+ "generated": "2026-11-03T07:24:49.242310+00:00",
  "items": [
-  {
-   "ticker": "AEHR",
-   "yahoo": "AEHR",
-   "name": "Aehr Test Systems",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-02",
-   "time": "amc",
-   "ts": "2026-11-02T21:00:00+00:00"
-  },
-  {
-   "ticker": "LSCC",
-   "yahoo": "LSCC",
-   "name": "Lattice Semiconductor Corporati",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-02",
-   "time": "amc",
-   "ts": "2026-11-02T21:00:00+00:00"
-  },
   {
    "ticker": "LTBR",
    "yahoo": "LTBR",
@@ -30,16 +10,6 @@
    "date": "2026-11-02",
    "time": "bmo",
    "ts": "2026-11-02T13:30:00+00:00"
-  },
-  {
-   "ticker": "RXRX",
-   "yahoo": "RXRX",
-   "name": "Recursion Pharmaceuticals, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-02",
-   "time": "amc",
-   "ts": "2026-11-02T21:00:00+00:00"
   },
   {
    "ticker": "ALAB",
