@@ -1,36 +1,6 @@
 {
- "generated": "2026-11-04T03:00:47.703751+00:00",
+ "generated": "2026-11-04T07:31:36.874854+00:00",
  "items": [
-  {
-   "ticker": "ALAB",
-   "yahoo": "ALAB",
-   "name": "Astera Labs, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-03",
-   "time": "amc",
-   "ts": "2026-11-03T21:00:00+00:00"
-  },
-  {
-   "ticker": "IPI",
-   "yahoo": "IPI",
-   "name": "Intrepid Potash, Inc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-03",
-   "time": "amc",
-   "ts": "2026-11-03T21:00:00+00:00"
-  },
-  {
-   "ticker": "NVTS",
-   "yahoo": "NVTS",
-   "name": "Navitas Semiconductor Corporati",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-03",
-   "time": "amc",
-   "ts": "2026-11-03T21:00:00+00:00"
-  },
   {
    "ticker": "ALB",
    "yahoo": "ALB",
