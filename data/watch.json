@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T14:17:21.492925+00:00",
+ "generated": "2026-11-04T15:41:23.252639+00:00",
  "items": [
   {
    "ticker": "ALB",
@@ -60,26 +60,6 @@
    "date": "2026-11-04",
    "time": "amc",
    "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "GFS",
-   "yahoo": "GFS",
-   "name": "GlobalFoundries Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "bmo",
-   "ts": "2026-11-04T13:30:00+00:00"
-  },
-  {
-   "ticker": "HUT",
-   "yahoo": "HUT",
-   "name": "Hut 8 Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "bmo",
-   "ts": "2026-11-04T13:30:00+00:00"
   },
   {
    "ticker": "LEU",
@@ -760,6 +740,16 @@
    "date": "2026-11-10",
    "time": "bmo",
    "ts": "2026-11-10T13:30:00+00:00"
+  },
+  {
+   "ticker": "LPTH",
+   "yahoo": "LPTH",
+   "name": "LightPath Technologies, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-10",
+   "time": "amc",
+   "ts": "2026-11-10T21:00:00+00:00"
   },
   {
    "ticker": "LWLG",
