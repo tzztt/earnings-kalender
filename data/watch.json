@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-04T23:31:32.726509+00:00",
+ "generated": "2026-11-05T03:04:03.848633+00:00",
  "items": [
-  {
-   "ticker": "ALB",
-   "yahoo": "ALB",
-   "name": "Albemarle Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
   {
    "ticker": "AMSC",
    "yahoo": "AMSC",
@@ -22,49 +12,9 @@
    "ts": "2026-11-04T21:00:00+00:00"
   },
   {
-   "ticker": "APP",
-   "yahoo": "APP",
-   "name": "Applovin Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "ARM",
-   "yahoo": "ARM",
-   "name": "Arm Holdings plc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "COHR",
-   "yahoo": "COHR",
-   "name": "Coherent Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
    "ticker": "LEU",
    "yahoo": "LEU",
    "name": "Centrus Energy Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "MKSI",
-   "yahoo": "MKSI",
-   "name": "MKS Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
@@ -85,16 +35,6 @@
    "ticker": "PAAS",
    "yahoo": "PAAS",
    "name": "Pan American Silver Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "QCOM",
-   "yahoo": "QCOM",
-   "name": "QUALCOMM Incorporated",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
@@ -850,6 +790,146 @@
    "date": "2026-11-11",
    "time": "amc",
    "ts": "2026-11-11T21:00:00+00:00"
+  },
+  {
+   "ticker": "ALMU",
+   "yahoo": "ALMU",
+   "name": "Aeluma, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
+  },
+  {
+   "ticker": "AMAT",
+   "yahoo": "AMAT",
+   "name": "Applied Materials, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
+  },
+  {
+   "ticker": "BTBT",
+   "yahoo": "BTBT",
+   "name": "Bit Digital, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "BZAI",
+   "yahoo": "BZAI",
+   "name": "Blaize Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
+  },
+  {
+   "ticker": "FIGR",
+   "yahoo": "FIGR",
+   "name": "Figure Technology Solutions, In",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "FPS",
+   "yahoo": "FPS",
+   "name": "Forgent Power Solutions, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "FRMI",
+   "yahoo": "FRMI",
+   "name": "Fermi Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "HIVE",
+   "yahoo": "HIVE",
+   "name": "HIVE Digital Technologies Ltd",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
+  },
+  {
+   "ticker": "NBIS",
+   "yahoo": "NBIS",
+   "name": "Nebius Group N.V.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "NU",
+   "yahoo": "NU",
+   "name": "Nu Holdings Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
+  },
+  {
+   "ticker": "NUAI",
+   "yahoo": "NUAI",
+   "name": "New Era Energy & Digital, Inc.",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "SLNH",
+   "yahoo": "SLNH",
+   "name": "Soluna Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
+  },
+  {
+   "ticker": "STTK",
+   "yahoo": "STTK",
+   "name": "Shattuck Labs, Inc.",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "TE",
+   "yahoo": "TE",
+   "name": "T1 Energy Inc.",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-12",
+   "time": "bmo",
+   "ts": "2026-11-12T13:30:00+00:00"
   }
  ]
 }
