@@ -1,36 +1,6 @@
 {
- "generated": "2026-11-05T15:45:15.385890+00:00",
+ "generated": "2026-11-05T23:33:54.097519+00:00",
  "items": [
-  {
-   "ticker": "PAAS",
-   "yahoo": "PAAS",
-   "name": "Pan American Silver Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "TNYA",
-   "yahoo": "TNYA",
-   "name": "Tenaya Therapeutics, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "UUUU",
-   "yahoo": "UUUU",
-   "name": "Energy Fuels Inc",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
   {
    "ticker": "AAOI",
    "yahoo": "AAOI",
@@ -82,36 +52,6 @@
    "ts": "2026-11-05T16:35:00+00:00"
   },
   {
-   "ticker": "CELH",
-   "yahoo": "CELH",
-   "name": "Celsius Holdings, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
-   "ticker": "COP",
-   "yahoo": "COP",
-   "name": "ConocoPhillips",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
-   "ticker": "CORZ",
-   "yahoo": "CORZ",
-   "name": "Core Scientific, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
    "ticker": "DIOD",
    "yahoo": "DIOD",
    "name": "Diodes Incorporated",
@@ -130,16 +70,6 @@
    "date": "2026-11-05",
    "time": "amc",
    "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "EOSE",
-   "yahoo": "EOSE",
-   "name": "Eos Energy Enterprises, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "HIMX",
@@ -242,16 +172,6 @@
    "ts": "2026-11-05T21:00:00+00:00"
   },
   {
-   "ticker": "MTSI",
-   "yahoo": "MTSI",
-   "name": "MACOM Technology Solutions Hold",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
    "ticker": "NOG",
    "yahoo": "NOG",
    "name": "Northern Oil and Gas, Inc.",
@@ -260,16 +180,6 @@
    "date": "2026-11-05",
    "time": "amc",
    "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "PH",
-   "yahoo": "PH",
-   "name": "Parker-Hannifin Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "QNT",
@@ -292,16 +202,6 @@
    "ts": "2026-11-05T21:00:00+00:00"
   },
   {
-   "ticker": "RGNX",
-   "yahoo": "RGNX",
-   "name": "REGENXBIO Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
    "ticker": "SERV",
    "yahoo": "SERV",
    "name": "Serve Robotics Inc.",
@@ -310,16 +210,6 @@
    "date": "2026-11-05",
    "time": "amc",
    "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "SLI",
-   "yahoo": "SLI",
-   "name": "Standard Lithium Ltd.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "SMR",
@@ -332,16 +222,6 @@
    "ts": "2026-11-05T21:00:00+00:00"
   },
   {
-   "ticker": "STTK",
-   "yahoo": "STTK",
-   "name": "Shattuck Labs, Inc.",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
    "ticker": "SYNA",
    "yahoo": "SYNA",
    "name": "Synaptics Incorporated",
@@ -350,16 +230,6 @@
    "date": "2026-11-05",
    "time": "amc",
    "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "TNGX",
-   "yahoo": "TNGX",
-   "name": "Tango Therapeutics, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
   },
   {
    "ticker": "TSSI",
@@ -542,6 +412,16 @@
    "ts": "2026-11-09T21:00:00+00:00"
   },
   {
+   "ticker": "SLI",
+   "yahoo": "SLI",
+   "name": "Standard Lithium Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "bmo",
+   "ts": "2026-11-09T13:30:00+00:00"
+  },
+  {
    "ticker": "USAR",
    "yahoo": "USAR",
    "name": "USA Rare Earth, Inc.",
@@ -682,6 +562,16 @@
    "ts": "2026-11-10T21:00:00+00:00"
   },
   {
+   "ticker": "TNGX",
+   "yahoo": "TNGX",
+   "name": "Tango Therapeutics, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-10",
+   "time": "bmo",
+   "ts": "2026-11-10T13:30:00+00:00"
+  },
+  {
    "ticker": "WYFI",
    "yahoo": "WYFI",
    "name": "WhiteFiber, Inc.",
@@ -775,6 +665,16 @@
    "ticker": "BZAI",
    "yahoo": "BZAI",
    "name": "Blaize Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
+  },
+  {
+   "ticker": "DFLI",
+   "yahoo": "DFLI",
+   "name": "Dragonfly Energy Holdings Corp",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-12",
