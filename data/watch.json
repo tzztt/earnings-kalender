@@ -1,40 +1,10 @@
 {
- "generated": "2026-11-05T07:36:46.889515+00:00",
+ "generated": "2026-11-05T13:21:58.021353+00:00",
  "items": [
-  {
-   "ticker": "AMSC",
-   "yahoo": "AMSC",
-   "name": "American Superconductor Corpora",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "LEU",
-   "yahoo": "LEU",
-   "name": "Centrus Energy Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
   {
    "ticker": "PAAS",
    "yahoo": "PAAS",
    "name": "Pan American Silver Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "SITM",
-   "yahoo": "SITM",
-   "name": "SiTime Corporation",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
@@ -57,16 +27,6 @@
    "name": "Energy Fuels Inc",
    "tz": "America/New_York",
    "portfolio": true,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "WOLF",
-   "yahoo": "WOLF",
-   "name": "Wolfspeed, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
    "date": "2026-11-04",
    "time": "amc",
    "ts": "2026-11-04T21:00:00+00:00"
