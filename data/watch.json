@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T03:04:03.848633+00:00",
+ "generated": "2026-11-05T07:36:46.889515+00:00",
  "items": [
   {
    "ticker": "AMSC",
@@ -22,49 +22,9 @@
    "ts": "2026-11-04T21:00:00+00:00"
   },
   {
-   "ticker": "NXE",
-   "yahoo": "NXE",
-   "name": "Nexgen Energy Ltd.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
    "ticker": "PAAS",
    "yahoo": "PAAS",
    "name": "Pan American Silver Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "RDW",
-   "yahoo": "RDW",
-   "name": "Redwire Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "RPD",
-   "yahoo": "RPD",
-   "name": "Rapid7, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-04",
-   "time": "amc",
-   "ts": "2026-11-04T21:00:00+00:00"
-  },
-  {
-   "ticker": "RUN",
-   "yahoo": "RUN",
-   "name": "Sunrun Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-04",
@@ -575,6 +535,16 @@
    "ticker": "MARA",
    "yahoo": "MARA",
    "name": "MARA Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-09",
+   "time": "amc",
+   "ts": "2026-11-09T21:00:00+00:00"
+  },
+  {
+   "ticker": "NXE",
+   "yahoo": "NXE",
+   "name": "Nexgen Energy Ltd.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-09",

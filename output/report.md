@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 05.11.2026 04:04
+Stand: 05.11.2026 08:36
 
 ## Nicht abrufbar (2)
 
@@ -11,7 +11,7 @@ Stand: 05.11.2026 04:04
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (37)
+## Ohne kommenden Earnings-Termin (36)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
@@ -34,7 +34,6 @@ Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eint
 - NASDAQ:MTEK → MTEK
 - NASDAQ:OPTX → OPTX
 - NYSE:LEU → LEU
-- NYSE:NXE → NXE
 - NASDAQ:AMSC → AMSC
 - NASDAQ:RUN → RUN
 - NYSE:CVE → CVE
