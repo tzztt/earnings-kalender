@@ -1,46 +1,6 @@
 {
- "generated": "2026-11-06T07:31:34.533674+00:00",
+ "generated": "2026-11-06T13:15:00.828266+00:00",
  "items": [
-  {
-   "ticker": "AAOI",
-   "yahoo": "AAOI",
-   "name": "Applied Optoelectronics, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "ACRS",
-   "yahoo": "ACRS",
-   "name": "Aclaris Therapeutics, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "bmo",
-   "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
-   "ticker": "AIP",
-   "yahoo": "AIP",
-   "name": "Arteris, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "ATS",
-   "yahoo": "ATS.VI",
-   "name": "AT&S Austria Tech.&Systemtech.",
-   "tz": "Europe/Vienna",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T16:35:00+00:00"
-  },
   {
    "ticker": "HIMX",
    "yahoo": "HIMX",
@@ -50,26 +10,6 @@
    "date": "2026-11-05",
    "time": "bmo",
    "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
-   "ticker": "IONQ",
-   "yahoo": "IONQ",
-   "name": "IonQ, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "IREN",
-   "yahoo": "IREN",
-   "name": "IREN LIMITED",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "ISOU",
@@ -115,26 +55,6 @@
    "ticker": "SERV",
    "yahoo": "SERV",
    "name": "Serve Robotics Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "SMR",
-   "yahoo": "SMR",
-   "name": "NuScale Power Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "SYNA",
-   "yahoo": "SYNA",
-   "name": "Synaptics Incorporated",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
