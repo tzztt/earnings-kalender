@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T03:02:22.923586+00:00",
+ "generated": "2026-11-06T07:31:34.533674+00:00",
  "items": [
   {
    "ticker": "AAOI",
@@ -42,16 +42,6 @@
    "ts": "2026-11-05T16:35:00+00:00"
   },
   {
-   "ticker": "DIOD",
-   "yahoo": "DIOD",
-   "name": "Diodes Incorporated",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
    "ticker": "HIMX",
    "yahoo": "HIMX",
    "name": "Himax Technologies, Inc.",
@@ -60,26 +50,6 @@
    "date": "2026-11-05",
    "time": "bmo",
    "ts": "2026-11-05T13:30:00+00:00"
-  },
-  {
-   "ticker": "INDI",
-   "yahoo": "INDI",
-   "name": "indie Semiconductor, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "INOD",
-   "yahoo": "INOD",
-   "name": "Innodata Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
   },
   {
    "ticker": "IONQ",
@@ -122,29 +92,9 @@
    "ts": "2026-11-05T13:30:00+00:00"
   },
   {
-   "ticker": "LASR",
-   "yahoo": "LASR",
-   "name": "nLIGHT, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
    "ticker": "LIDR",
    "yahoo": "LIDR",
    "name": "AEye, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-05",
-   "time": "amc",
-   "ts": "2026-11-05T21:00:00+00:00"
-  },
-  {
-   "ticker": "MP",
-   "yahoo": "MP",
-   "name": "MP Materials Corp.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-05",
