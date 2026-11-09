@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-07T03:00:42.544417+00:00",
+ "generated": "2026-11-09T07:42:12.688219+00:00",
  "items": [
-  {
-   "ticker": "VST",
-   "yahoo": "VST",
-   "name": "Vistra Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-06",
-   "time": "bmo",
-   "ts": "2026-11-06T13:30:00+00:00"
-  },
   {
    "ticker": "AMRC",
    "yahoo": "AMRC",
@@ -530,6 +520,26 @@
    "date": "2026-11-13",
    "time": "bmo",
    "ts": "2026-11-13T13:30:00+00:00"
+  },
+  {
+   "ticker": "POET",
+   "yahoo": "POET",
+   "name": "POET Technologies Inc.",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-16",
+   "time": "bmo",
+   "ts": "2026-11-16T13:30:00+00:00"
+  },
+  {
+   "ticker": "RCAT",
+   "yahoo": "RCAT",
+   "name": "Red Cat Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-16",
+   "time": "amc",
+   "ts": "2026-11-16T21:00:00+00:00"
   }
  ]
 }
