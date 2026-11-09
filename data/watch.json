@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T13:21:43.533696+00:00",
+ "generated": "2026-11-09T15:00:15.399955+00:00",
  "items": [
   {
    "ticker": "AMRC",
@@ -35,26 +35,6 @@
    "ticker": "CECO",
    "yahoo": "CECO",
    "name": "CECO Environmental Corp.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "bmo",
-   "ts": "2026-11-09T13:30:00+00:00"
-  },
-  {
-   "ticker": "CEG",
-   "yahoo": "CEG",
-   "name": "Constellation Energy Corporatio",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "bmo",
-   "ts": "2026-11-09T13:30:00+00:00"
-  },
-  {
-   "ticker": "CEVA",
-   "yahoo": "CEVA",
-   "name": "CEVA, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-09",
@@ -272,16 +252,6 @@
    "ts": "2026-11-10T21:00:00+00:00"
   },
   {
-   "ticker": "TNGX",
-   "yahoo": "TNGX",
-   "name": "Tango Therapeutics, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "bmo",
-   "ts": "2026-11-10T13:30:00+00:00"
-  },
-  {
    "ticker": "WYFI",
    "yahoo": "WYFI",
    "name": "WhiteFiber, Inc.",
@@ -452,16 +422,6 @@
    "ts": "2026-11-12T13:30:00+00:00"
   },
   {
-   "ticker": "SLNH",
-   "yahoo": "SLNH",
-   "name": "Soluna Holdings, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-12",
-   "time": "amc",
-   "ts": "2026-11-12T21:00:00+00:00"
-  },
-  {
    "ticker": "TE",
    "yahoo": "TE",
    "name": "T1 Energy Inc.",
@@ -535,6 +495,16 @@
    "ticker": "RCAT",
    "yahoo": "RCAT",
    "name": "Red Cat Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-16",
+   "time": "amc",
+   "ts": "2026-11-16T21:00:00+00:00"
+  },
+  {
+   "ticker": "SLNH",
+   "yahoo": "SLNH",
+   "name": "Soluna Holdings, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-16",
