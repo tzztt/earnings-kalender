@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T13:09:31.730544+00:00",
+ "generated": "2026-11-10T14:13:32.588646+00:00",
  "items": [
   {
    "ticker": "NXE",
@@ -90,16 +90,6 @@
    "date": "2026-11-10",
    "time": "amc",
    "ts": "2026-11-10T21:00:00+00:00"
-  },
-  {
-   "ticker": "QBTS",
-   "yahoo": "QBTS",
-   "name": "D-Wave Quantum Inc.",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-10",
-   "time": "bmo",
-   "ts": "2026-11-10T13:30:00+00:00"
   },
   {
    "ticker": "QUIK",
