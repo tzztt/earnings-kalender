@@ -1,26 +1,6 @@
 {
- "generated": "2026-11-10T03:00:33.360771+00:00",
+ "generated": "2026-11-10T07:23:47.934293+00:00",
  "items": [
-  {
-   "ticker": "ASTS",
-   "yahoo": "ASTS",
-   "name": "AST SpaceMobile, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "amc",
-   "ts": "2026-11-09T21:00:00+00:00"
-  },
-  {
-   "ticker": "BW",
-   "yahoo": "BW",
-   "name": "Babcock & Wilcox Enterprises, I",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "amc",
-   "ts": "2026-11-09T21:00:00+00:00"
-  },
   {
    "ticker": "HIVE",
    "yahoo": "HIVE",
@@ -32,29 +12,9 @@
    "ts": "2026-11-09T21:00:00+00:00"
   },
   {
-   "ticker": "MARA",
-   "yahoo": "MARA",
-   "name": "MARA Holdings, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "amc",
-   "ts": "2026-11-09T21:00:00+00:00"
-  },
-  {
    "ticker": "NXE",
    "yahoo": "NXE",
    "name": "Nexgen Energy Ltd.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "amc",
-   "ts": "2026-11-09T21:00:00+00:00"
-  },
-  {
-   "ticker": "USAR",
-   "yahoo": "USAR",
-   "name": "USA Rare Earth, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-09",
