@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-09T23:27:54.436585+00:00",
+ "generated": "2026-11-10T03:00:33.360771+00:00",
  "items": [
-  {
-   "ticker": "AMRC",
-   "yahoo": "AMRC",
-   "name": "Ameresco, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "amc",
-   "ts": "2026-11-09T21:00:00+00:00"
-  },
   {
    "ticker": "ASTS",
    "yahoo": "ASTS",
@@ -25,16 +15,6 @@
    "ticker": "BW",
    "yahoo": "BW",
    "name": "Babcock & Wilcox Enterprises, I",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "amc",
-   "ts": "2026-11-09T21:00:00+00:00"
-  },
-  {
-   "ticker": "HIMS",
-   "yahoo": "HIMS",
-   "name": "Hims & Hers Health, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-09",
@@ -65,16 +45,6 @@
    "ticker": "NXE",
    "yahoo": "NXE",
    "name": "Nexgen Energy Ltd.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-09",
-   "time": "amc",
-   "ts": "2026-11-09T21:00:00+00:00"
-  },
-  {
-   "ticker": "RKLB",
-   "yahoo": "RKLB",
-   "name": "Rocket Lab Corporation",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-09",
@@ -490,6 +460,26 @@
    "date": "2026-11-16",
    "time": "amc",
    "ts": "2026-11-16T21:00:00+00:00"
+  },
+  {
+   "ticker": "JD",
+   "yahoo": "JD",
+   "name": "JD.com, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-17",
+   "time": "bmo",
+   "ts": "2026-11-17T13:30:00+00:00"
+  },
+  {
+   "ticker": "NVDA",
+   "yahoo": "NVDA",
+   "name": "NVIDIA Corporation",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-17",
+   "time": "amc",
+   "ts": "2026-11-17T21:00:00+00:00"
   }
  ]
 }
