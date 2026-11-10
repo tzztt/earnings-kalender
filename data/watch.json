@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T15:35:07.124417+00:00",
+ "generated": "2026-11-10T21:00:26.427588+00:00",
  "items": [
   {
    "ticker": "NXE",
@@ -10,26 +10,6 @@
    "date": "2026-11-09",
    "time": "amc",
    "ts": "2026-11-09T21:00:00+00:00"
-  },
-  {
-   "ticker": "BTDR",
-   "yahoo": "BTDR",
-   "name": "Bitdeer Technologies Group",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "bmo",
-   "ts": "2026-11-10T13:30:00+00:00"
-  },
-  {
-   "ticker": "CAN",
-   "yahoo": "CAN",
-   "name": "Canaan Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "bmo",
-   "ts": "2026-11-10T13:30:00+00:00"
   },
   {
    "ticker": "CRWV",
