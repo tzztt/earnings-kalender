@@ -1,20 +1,10 @@
 {
- "generated": "2026-11-11T07:29:35.803858+00:00",
+ "generated": "2026-11-11T13:18:33.725858+00:00",
  "items": [
   {
-   "ticker": "KOPN",
-   "yahoo": "KOPN",
-   "name": "Kopin Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "amc",
-   "ts": "2026-11-10T21:00:00+00:00"
-  },
-  {
-   "ticker": "LPTH",
-   "yahoo": "LPTH",
-   "name": "LightPath Technologies, Inc.",
+   "ticker": "RANI",
+   "yahoo": "RANI",
+   "name": "Rani Therapeutics Holdings, Inc",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-10",
@@ -27,49 +17,9 @@
    "name": "Lightwave Logic, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
-   "date": "2026-11-10",
-   "time": "amc",
-   "ts": "2026-11-10T21:00:00+00:00"
-  },
-  {
-   "ticker": "RANI",
-   "yahoo": "RANI",
-   "name": "Rani Therapeutics Holdings, Inc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "amc",
-   "ts": "2026-11-10T21:00:00+00:00"
-  },
-  {
-   "ticker": "SATL",
-   "yahoo": "SATL",
-   "name": "Satellogic Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "amc",
-   "ts": "2026-11-10T21:00:00+00:00"
-  },
-  {
-   "ticker": "WYFI",
-   "yahoo": "WYFI",
-   "name": "WhiteFiber, Inc.",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-10",
-   "time": "bmo",
-   "ts": "2026-11-10T13:30:00+00:00"
-  },
-  {
-   "ticker": "ENR",
-   "yahoo": "ENR.DE",
-   "name": "Siemens Energy AG             N",
-   "tz": "Europe/Berlin",
-   "portfolio": false,
    "date": "2026-11-11",
    "time": "amc",
-   "ts": "2026-11-11T16:30:00+00:00"
+   "ts": "2026-11-11T21:00:00+00:00"
   },
   {
    "ticker": "ORKA",
