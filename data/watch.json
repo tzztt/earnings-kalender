@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-10T23:23:07.597521+00:00",
+ "generated": "2026-11-11T03:02:14.051204+00:00",
  "items": [
-  {
-   "ticker": "CRWV",
-   "yahoo": "CRWV",
-   "name": "CoreWeave, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "amc",
-   "ts": "2026-11-10T21:00:00+00:00"
-  },
   {
    "ticker": "KOPN",
    "yahoo": "KOPN",
@@ -52,29 +42,9 @@
    "ts": "2026-11-10T21:00:00+00:00"
   },
   {
-   "ticker": "QUIK",
-   "yahoo": "QUIK",
-   "name": "QuickLogic Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "amc",
-   "ts": "2026-11-10T21:00:00+00:00"
-  },
-  {
    "ticker": "RANI",
    "yahoo": "RANI",
    "name": "Rani Therapeutics Holdings, Inc",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-10",
-   "time": "amc",
-   "ts": "2026-11-10T21:00:00+00:00"
-  },
-  {
-   "ticker": "RGTI",
-   "yahoo": "RGTI",
-   "name": "Rigetti Computing, Inc.",
    "tz": "America/New_York",
    "portfolio": false,
    "date": "2026-11-10",
@@ -380,6 +350,36 @@
    "date": "2026-11-17",
    "time": "amc",
    "ts": "2026-11-17T21:00:00+00:00"
+  },
+  {
+   "ticker": "NNND",
+   "yahoo": "0700.HK",
+   "name": "TENCENT",
+   "tz": "Asia/Hong_Kong",
+   "portfolio": false,
+   "date": "2026-11-18",
+   "time": "dmh",
+   "ts": "2026-11-18T08:10:00+00:00"
+  },
+  {
+   "ticker": "P",
+   "yahoo": "P",
+   "name": "Everpure, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-18",
+   "time": "amc",
+   "ts": "2026-11-18T21:00:00+00:00"
+  },
+  {
+   "ticker": "PANW",
+   "yahoo": "PANW",
+   "name": "Palo Alto Networks, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-18",
+   "time": "amc",
+   "ts": "2026-11-18T21:00:00+00:00"
   }
  ]
 }

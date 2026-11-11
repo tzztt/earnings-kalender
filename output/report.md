@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 11.11.2026 00:23
+Stand: 11.11.2026 04:02
 
 ## Nicht abrufbar (2)
 
@@ -11,16 +11,29 @@ Stand: 11.11.2026 00:23
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (13)
+## Ohne kommenden Earnings-Termin (26)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
+- NASDAQ:QBTS → QBTS
+- NASDAQ:WYFI → WYFI
+- NASDAQ:QUIK → QUIK
 - XETR:4DS → 4DS.AX
+- NASDAQ:KOPN → KOPN
+- NASDAQ:LPTH → LPTH
+- NASDAQ:LWLG → LWLG
+- NASDAQ:CRWV → CRWV
 - NASDAQ:GFAI → GFAI
+- NASDAQ:BTDR → BTDR
+- NASDAQ:CAN → CAN
 - NASDAQ:BTQ → BTQ
+- NASDAQ:RGTI → RGTI
 - HKEX:9880 → 9880.HK
+- NASDAQ:FLY → FLY
+- NASDAQ:SATL → SATL
 - NASDAQ:MTEK → MTEK
 - NASDAQ:OPTX → OPTX
+- NYSE:LAR → LAR
 - NASDAQ:CRML → CRML
 - AMEX:MAIA → MAIA
 - HKEX:2513 → 2513.HK
