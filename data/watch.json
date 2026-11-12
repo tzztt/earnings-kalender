@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T23:37:59.475053+00:00",
+ "generated": "2026-11-12T03:02:39.153536+00:00",
  "items": [
   {
    "ticker": "LWLG",
@@ -27,16 +27,6 @@
    "name": "SELLAS Life Sciences Group, Inc",
    "tz": "America/New_York",
    "portfolio": true,
-   "date": "2026-11-11",
-   "time": "amc",
-   "ts": "2026-11-11T21:00:00+00:00"
-  },
-  {
-   "ticker": "XNDU",
-   "yahoo": "XNDU",
-   "name": "Xanadu Quantum Technologies Lim",
-   "tz": "America/New_York",
-   "portfolio": false,
    "date": "2026-11-11",
    "time": "amc",
    "ts": "2026-11-11T21:00:00+00:00"
@@ -300,6 +290,36 @@
    "date": "2026-11-18",
    "time": "amc",
    "ts": "2026-11-18T21:00:00+00:00"
+  },
+  {
+   "ticker": "ARBE",
+   "yahoo": "ARBE",
+   "name": "Arbe Robotics Ltd.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-19",
+   "time": "bmo",
+   "ts": "2026-11-19T13:30:00+00:00"
+  },
+  {
+   "ticker": "BABA",
+   "yahoo": "BABA",
+   "name": "Alibaba Group Holding Limited",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-19",
+   "time": "bmo",
+   "ts": "2026-11-19T13:30:00+00:00"
+  },
+  {
+   "ticker": "V02",
+   "yahoo": "V02.F",
+   "name": "HOEGH AUTOLINERS NK 21,20",
+   "tz": "Europe/Berlin",
+   "portfolio": false,
+   "date": "2026-11-19",
+   "time": "amc",
+   "ts": "2026-11-19T21:00:00+00:00"
   }
  ]
 }
