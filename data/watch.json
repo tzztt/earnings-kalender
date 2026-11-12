@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T07:35:19.752888+00:00",
+ "generated": "2026-11-12T13:22:57.101889+00:00",
  "items": [
   {
    "ticker": "LWLG",
@@ -20,16 +20,6 @@
    "date": "2026-11-11",
    "time": "bmo",
    "ts": "2026-11-11T13:30:00+00:00"
-  },
-  {
-   "ticker": "SLS",
-   "yahoo": "SLS",
-   "name": "SELLAS Life Sciences Group, Inc",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-11",
-   "time": "amc",
-   "ts": "2026-11-11T21:00:00+00:00"
   },
   {
    "ticker": "ALMU",
@@ -150,6 +140,16 @@
    "date": "2026-11-12",
    "time": "bmo",
    "ts": "2026-11-12T13:30:00+00:00"
+  },
+  {
+   "ticker": "SLS",
+   "yahoo": "SLS",
+   "name": "SELLAS Life Sciences Group, Inc",
+   "tz": "America/New_York",
+   "portfolio": true,
+   "date": "2026-11-12",
+   "time": "amc",
+   "ts": "2026-11-12T21:00:00+00:00"
   },
   {
    "ticker": "TE",
