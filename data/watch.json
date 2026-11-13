@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-13T13:16:37.650508+00:00",
+ "generated": "2026-11-13T15:35:35.578342+00:00",
  "items": [
-  {
-   "ticker": "DFLI",
-   "yahoo": "DFLI",
-   "name": "Dragonfly Energy Holdings Corp",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-12",
-   "time": "amc",
-   "ts": "2026-11-12T21:00:00+00:00"
-  },
   {
    "ticker": "SLI",
    "yahoo": "SLI",
