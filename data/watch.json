@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T09:01:22.096024+00:00",
+ "generated": "2026-11-16T15:05:41.147414+00:00",
  "items": [
   {
    "ticker": "BZAI",
@@ -20,16 +20,6 @@
    "date": "2026-11-16",
    "time": "amc",
    "ts": "2026-11-16T21:00:00+00:00"
-  },
-  {
-   "ticker": "POET",
-   "yahoo": "POET",
-   "name": "POET Technologies Inc.",
-   "tz": "America/New_York",
-   "portfolio": true,
-   "date": "2026-11-16",
-   "time": "bmo",
-   "ts": "2026-11-16T13:30:00+00:00"
   },
   {
    "ticker": "RCAT",
