@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 14.11.2026 04:00
+Stand: 16.11.2026 10:01
 
 ## Nicht abrufbar (2)
 
@@ -11,24 +11,20 @@ Stand: 14.11.2026 04:00
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (17)
+## Ohne kommenden Earnings-Termin (13)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
 - XETR:4DS → 4DS.AX
-- NASDAQ:DVLT → DVLT
 - NASDAQ:GFAI → GFAI
-- NASDAQ:DGXX → DGXX
 - NASDAQ:BTQ → BTQ
 - HKEX:9880 → 9880.HK
 - NASDAQ:MTEK → MTEK
 - NASDAQ:OPTX → OPTX
-- NASDAQ:SGML → SGML
 - NASDAQ:CRML → CRML
 - AMEX:MAIA → MAIA
 - HKEX:2513 → 2513.HK
 - SSE:603986 → 603986.SS
-- TRADEGATE:DQW → DQW.F
 - TRADEGATE:RI7 → RI7.F
 - NASDAQ:STI → STI
 - NASDAQ:SAIQ → SAIQ
