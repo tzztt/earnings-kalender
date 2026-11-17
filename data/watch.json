@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-16T23:31:10.878312+00:00",
+ "generated": "2026-11-17T03:01:04.863317+00:00",
  "items": [
-  {
-   "ticker": "BZAI",
-   "yahoo": "BZAI",
-   "name": "Blaize Holdings, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-16",
-   "time": "amc",
-   "ts": "2026-11-16T21:00:00+00:00"
-  },
   {
    "ticker": "DVLT",
    "yahoo": "DVLT",
@@ -112,6 +102,16 @@
    "ts": "2026-11-19T13:30:00+00:00"
   },
   {
+   "ticker": "BZAI",
+   "yahoo": "BZAI",
+   "name": "Blaize Holdings, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-19",
+   "time": "amc",
+   "ts": "2026-11-19T21:00:00+00:00"
+  },
+  {
    "ticker": "V02",
    "yahoo": "V02.F",
    "name": "HOEGH AUTOLINERS NK 21,20",
@@ -150,6 +150,56 @@
    "date": "2026-11-23",
    "time": "amc",
    "ts": "2026-11-23T21:00:00+00:00"
+  },
+  {
+   "ticker": "ADI",
+   "yahoo": "ADI",
+   "name": "Analog Devices, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-24",
+   "time": "bmo",
+   "ts": "2026-11-24T13:30:00+00:00"
+  },
+  {
+   "ticker": "AMBA",
+   "yahoo": "AMBA",
+   "name": "Ambarella, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-24",
+   "time": "amc",
+   "ts": "2026-11-24T21:00:00+00:00"
+  },
+  {
+   "ticker": "CLSK",
+   "yahoo": "CLSK",
+   "name": "CleanSpark, Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-24",
+   "time": "amc",
+   "ts": "2026-11-24T21:00:00+00:00"
+  },
+  {
+   "ticker": "DELL",
+   "yahoo": "DELL",
+   "name": "Dell Technologies Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-24",
+   "time": "amc",
+   "ts": "2026-11-24T21:00:00+00:00"
+  },
+  {
+   "ticker": "KRKNF",
+   "yahoo": "KRKNF",
+   "name": "Kraken Robotics Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-24",
+   "time": "bmo",
+   "ts": "2026-11-24T13:30:00+00:00"
   }
  ]
 }

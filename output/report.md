@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 17.11.2026 00:31
+Stand: 17.11.2026 04:01
 
 ## Nicht abrufbar (2)
 
@@ -11,14 +11,18 @@ Stand: 17.11.2026 00:31
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (13)
+## Ohne kommenden Earnings-Termin (17)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
+- NASDAQ:POET → POET
 - XETR:4DS → 4DS.AX
+- NASDAQ:DVLT → DVLT
 - NASDAQ:GFAI → GFAI
+- NASDAQ:SLNH → SLNH
 - NASDAQ:BTQ → BTQ
 - HKEX:9880 → 9880.HK
+- NASDAQ:RCAT → RCAT
 - NASDAQ:MTEK → MTEK
 - NASDAQ:OPTX → OPTX
 - NASDAQ:CRML → CRML
