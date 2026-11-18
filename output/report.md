@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 18.11.2026 00:39
+Stand: 18.11.2026 04:01
 
 ## Nicht abrufbar (2)
 
@@ -11,16 +11,18 @@ Stand: 18.11.2026 00:39
 
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (13)
+## Ohne kommenden Earnings-Termin (15)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
+- NASDAQ:NVDA → NVDA
 - XETR:4DS → 4DS.AX
 - NASDAQ:GFAI → GFAI
 - NASDAQ:BTQ → BTQ
 - HKEX:9880 → 9880.HK
 - NASDAQ:MTEK → MTEK
 - NASDAQ:OPTX → OPTX
+- NASDAQ:JD → JD
 - NASDAQ:CRML → CRML
 - AMEX:MAIA → MAIA
 - HKEX:2513 → 2513.HK

@@ -1,26 +1,6 @@
 {
- "generated": "2026-11-17T23:39:12.161534+00:00",
+ "generated": "2026-11-18T03:01:52.878502+00:00",
  "items": [
-  {
-   "ticker": "DVLT",
-   "yahoo": "DVLT",
-   "name": "Datavault AI Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-17",
-   "time": "amc",
-   "ts": "2026-11-17T21:00:00+00:00"
-  },
-  {
-   "ticker": "NVDA",
-   "yahoo": "NVDA",
-   "name": "NVIDIA Corporation",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-17",
-   "time": "amc",
-   "ts": "2026-11-17T21:00:00+00:00"
-  },
   {
    "ticker": "NNND",
    "yahoo": "0700.HK",
@@ -170,6 +150,26 @@
    "date": "2026-11-24",
    "time": "bmo",
    "ts": "2026-11-24T13:30:00+00:00"
+  },
+  {
+   "ticker": "DVLT",
+   "yahoo": "DVLT",
+   "name": "Datavault AI Inc.",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-25",
+   "time": "amc",
+   "ts": "2026-11-25T21:00:00+00:00"
+  },
+  {
+   "ticker": "GMGMF",
+   "yahoo": "GMGMF",
+   "name": "Graphene Manufacturing Group Lt",
+   "tz": "America/New_York",
+   "portfolio": false,
+   "date": "2026-11-25",
+   "time": "dmh",
+   "ts": "2026-11-25T20:00:00+00:00"
   }
  ]
 }
