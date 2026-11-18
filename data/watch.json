@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-18T13:24:35.903246+00:00",
+ "generated": "2026-11-18T15:44:49.736078+00:00",
  "items": [
-  {
-   "ticker": "NNND",
-   "yahoo": "0700.HK",
-   "name": "TENCENT",
-   "tz": "Asia/Hong_Kong",
-   "portfolio": false,
-   "date": "2026-11-18",
-   "time": "dmh",
-   "ts": "2026-11-18T08:10:00+00:00"
-  },
   {
    "ticker": "P",
    "yahoo": "P",
