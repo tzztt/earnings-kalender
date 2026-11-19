@@ -1,26 +1,6 @@
 {
- "generated": "2026-11-18T23:38:02.067919+00:00",
+ "generated": "2026-11-19T03:03:44.154860+00:00",
  "items": [
-  {
-   "ticker": "P",
-   "yahoo": "P",
-   "name": "Everpure, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-18",
-   "time": "amc",
-   "ts": "2026-11-18T21:00:00+00:00"
-  },
-  {
-   "ticker": "PANW",
-   "yahoo": "PANW",
-   "name": "Palo Alto Networks, Inc.",
-   "tz": "America/New_York",
-   "portfolio": false,
-   "date": "2026-11-18",
-   "time": "amc",
-   "ts": "2026-11-18T21:00:00+00:00"
-  },
   {
    "ticker": "ARBE",
    "yahoo": "ARBE",
@@ -160,6 +140,16 @@
    "date": "2026-11-25",
    "time": "dmh",
    "ts": "2026-11-25T20:00:00+00:00"
+  },
+  {
+   "ticker": "2DG",
+   "yahoo": "2DG.F",
+   "name": "Sivers Semiconductors AB      N",
+   "tz": "Europe/Berlin",
+   "portfolio": true,
+   "date": "2026-11-26",
+   "time": "amc",
+   "ts": "2026-11-26T21:00:00+00:00"
   }
  ]
 }
