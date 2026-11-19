@@ -1,6 +1,6 @@
 # Prüfbericht
 
-Stand: 19.11.2026 08:34
+Stand: 19.11.2026 14:27
 
 ## Nicht abrufbar (2)
 
@@ -12,21 +12,18 @@ Stand: 19.11.2026 08:34
 - NASDAQ:SNDK → SNDK
 - TRADEGATE:FHL → FHL.F
 
-## Ohne kommenden Earnings-Termin (16)
+## Ohne kommenden Earnings-Termin (13)
 
 Tipp: bei deutschen Zweitlistings in symbols_override.yaml die Heimatbörse eintragen.
 
 - XETR:4DS → 4DS.AX
 - NASDAQ:GFAI → GFAI
-- TRADEGATE:NNND → 0700.HK
-- NASDAQ:PANW → PANW
 - NASDAQ:BTQ → BTQ
 - HKEX:9880 → 9880.HK
 - NASDAQ:MTEK → MTEK
 - NASDAQ:OPTX → OPTX
 - NASDAQ:CRML → CRML
 - AMEX:MAIA → MAIA
-- NYSE:P → P
 - HKEX:2513 → 2513.HK
 - SSE:603986 → 603986.SS
 - TRADEGATE:RI7 → RI7.F
