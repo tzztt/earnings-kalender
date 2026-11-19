@@ -1,14 +1,15 @@
 # Prüfbericht
 
-Stand: 19.11.2026 04:03
+Stand: 19.11.2026 08:34
 
 ## Nicht abrufbar (2)
 
 - LSX:932443: WKN statt Ticker – bitte in symbols_override.yaml eintragen
 - LS:856099: WKN statt Ticker – bitte in symbols_override.yaml eintragen
 
-## Ohne Kursdaten (1)
+## Ohne Kursdaten (2)
 
+- NASDAQ:SNDK → SNDK
 - TRADEGATE:FHL → FHL.F
 
 ## Ohne kommenden Earnings-Termin (16)
