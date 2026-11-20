@@ -1,16 +1,6 @@
 {
- "generated": "2026-11-20T15:43:46.763906+00:00",
+ "generated": "2026-11-20T23:34:13.522008+00:00",
  "items": [
-  {
-   "ticker": "V02",
-   "yahoo": "V02.F",
-   "name": "HOEGH AUTOLINERS NK 21,20",
-   "tz": "Europe/Berlin",
-   "portfolio": false,
-   "date": "2026-11-19",
-   "time": "amc",
-   "ts": "2026-11-19T21:00:00+00:00"
-  },
   {
    "ticker": "FLNC",
    "yahoo": "FLNC",
@@ -120,16 +110,6 @@
    "date": "2026-11-25",
    "time": "dmh",
    "ts": "2026-11-25T20:00:00+00:00"
-  },
-  {
-   "ticker": "2DG",
-   "yahoo": "2DG.F",
-   "name": "Sivers Semiconductors AB      N",
-   "tz": "Europe/Berlin",
-   "portfolio": true,
-   "date": "2026-11-26",
-   "time": "amc",
-   "ts": "2026-11-26T21:00:00+00:00"
   }
  ]
 }
